@@ -44,15 +44,16 @@
     <script>
         function Log() {
             const name = document.getElementById("text");
-            console.log(name, "order test_comic");
-            alert("We have taken your order")
+            console.log(name);
+            console.log("orderd test_comic")
+            alert("We have taken your order");
         }
     </script>
 </head>
 
 <body>
     <h1>Fill in the box to order your comic</h1>
-    <input type="text" placeholder="what is your full name"><br>
+    <input type="text" placeholder="what is your full name ">
     <input type="submit" placeholder="Enter" onclick="return Log()">
 </body>
 
