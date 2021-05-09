@@ -1,6 +1,8 @@
 import random
 from turtle import *
 
+number = input("how many snowflakes do you want")
+
 shape("turtle")
 speed(116)
 pensize(6)
@@ -33,7 +35,7 @@ def snow_flake(size):
         right(20)
 
 
-while True:
+for i in range(0, int(number)):
     size = random.randint(5, 30)
     x = random.randint(-400, 400)
     y = random.randint(-400, 400)
