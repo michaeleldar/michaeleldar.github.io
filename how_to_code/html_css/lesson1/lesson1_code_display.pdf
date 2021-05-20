@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!--this is a HTML comment you don't need to type these out-->
+<!--Line 1 tells the browser this is HTML code-->
+<html>
+<!--line 4 tells the browser that everything between-->
+<!--this and line 12 is HTML code-->
+
+<body>
+    <!--Everything between line 8 and line 11-->
+    <!--is in the main part of the code-->
+    <h1>Hello, world!</h1>
+    <!--line 11 tells the browser to display "Hello, world!"-->
+    <!--as a header with a size of 1 (big)-->
+</body>
+
+</html>
