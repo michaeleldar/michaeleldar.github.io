@@ -47,7 +47,7 @@ a {
 }
 
 .button {
-    background-color: #ed4a0f;
+    background-color: rgb(29, 179, 2);
     padding: 0.3vw 3vw;
     border-radius: 2px;
     cursor: pointer;
@@ -57,5 +57,5 @@ a {
 
 .button:hover {
     background-color: #ffb99f;
-    color: #ed4a0f;
+    color: rgb(29, 179, 2);
 }
