@@ -48,7 +48,7 @@ a {
 }
 
 .button {
-    background-color: yellow;
+    background-color: black;
     padding: 0.3vw 3vw;
     border-radius: 2px;
     cursor: pointer;
@@ -58,5 +58,5 @@ a {
 
 .button:hover {
     background-color: black;
-    color: yellow;
+    color: blue;
 }
