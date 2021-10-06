@@ -1,0 +1,28 @@
+3 departments (subject to change):
+    Web Dev
+    Scratch Dev
+    Unity Dev
+More departments will be added in the future.
+
+Founder: Michael
+
+Web Dev manager: Fabien?
+Scratch Dev manager: Michael
+Unity Dev manager: Eamon?
+
+Web Dev employees:
+    Fabien?
+    Michael
+    Eamon?
+
+Scratch Dev employees:
+    Fabien?
+    Michael
+    Eamon?
+    George?
+    Cormac?
+
+Unity Dev employees:
+    Eamon?
+    George?
+    Michael?
