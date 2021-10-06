@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Click on the button</title>
+    <style>
+        h1 {
+            color: orangered;
+            text-align: center;
+        }
+
+        input {
+            font-size: 35px;
+            text-align: center;
+            background-color: darkgoldenrod;
+        }
+
+        body {
+            background-color: lightgoldenrodyellow;
+        }
+    </style>
+    <script>
+        // on the next line your making a function
+        // alert is a function that javascrpt has already
+        // made for you
+        function clickedButton() {
+            alert("You clicked the button")
+        }
+    </script>
+</head>
+
+<body>
+    <h1>Click on the button</h1>
+    <input type="submit" onclick="return clickedButton()">
+    <!--the onclick="" bit calls a javascript function
+    you made earlier-->
+</body>
+
+</html>

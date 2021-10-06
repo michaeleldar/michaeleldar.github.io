@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Test Comic - Innovation Inc</title>
+    <style>
+        h1 {
+            color: darkgoldenrod;
+            background-color: lightblue;
+            text-align: center;
+            font-size: 50px;
+            font-family: monospace;
+        }
+
+        h1:hover {
+            color: blue;
+            background-color: yellow;
+            text-align: center;
+            font-size: 60px;
+            font-family: monospace;
+        }
+
+        a {
+            color: green;
+            text-align: left;
+            font-size: 20px;
+            font-family: monospace;
+        }
+
+        a:hover {
+            color: blue;
+            text-align: left;
+            font-size: 20px;
+            font-family: monospace;
+        }
+
+        input {
+            color: yellow;
+            text-align: center;
+            font-size: large;
+            font-family: monospace;
+        }
+    </style>
+    <script>
+        function Log() {
+            const name = document.getElementById("text");
+            const textWords = name.value;
+            console.log(textWords, "ordered test comic");
+            alert("We have taken your order,", textWords);
+        }
+    </script>
+</head>
+
+<body>
+    <h1>Fill in the box to order your comic</h1>
+    <input id="text" type="text" placeholder="what is your full name ">
+    <input type="submit" placeholder="Enter" onclick="return Log()">
+</body>
+
+</html>
