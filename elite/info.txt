@@ -1,7 +1,6 @@
 3 departments (subject to change):
     Web Dev
     Scratch Dev
-    Unity Dev
     Buisness Post
 More departments will be added in the future.
 
@@ -9,7 +8,6 @@ Founder: Michael
 
 Web Dev manager: Fabien?
 Scratch Dev manager: Michael
-Unity Dev manager: Eamon?
 Buisness Post: George?
 
 Web Dev employees:
@@ -23,11 +21,6 @@ Scratch Dev employees:
     Eamon?
     George?
     Cormac?
-
-Unity Dev employees:
-    Eamon?
-    George?
-    Michael?
 
 Buisness Post employees:
     George?
