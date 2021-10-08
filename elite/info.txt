@@ -18,9 +18,9 @@ Web Dev employees:
 Scratch Dev employees:
     Fabien?
     Michael
-    Eamon?
-    George?
-    Cormac?
+    Eamon
+    George
+    Cormac
 
 Buisness Post employees:
     George?
