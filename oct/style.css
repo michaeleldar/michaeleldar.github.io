@@ -1,0 +1,30 @@
+body {
+    background-color: darkgoldenrod;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+a {
+    color: green;
+}
+a:hover {
+    color: blue;
+}
+
+iframe {
+    border:2px solid darkgoldenrod;
+}
+h3 {
+    text-align: center;
+}
+h5 {
+    text-align: center;
+}
