@@ -1,2 +1,16 @@
-Hello
-Hello 2
+#version advance-mark 1.0
+Normal Text
+More Normal Text
+#title Big Text!
+Line Break Below
+
+{title
+Start of the big text...
+More big text
+}title
+No more big text
+#comment You can't see this.
+But you can see this.
+{comment
+EOF
+}comment
